@@ -1,6 +1,6 @@
 ## SpacyPy - Satellite TLE Analysis
 
-`spacy.py` scraps satellite informations from the web, and formats all information into a comprehensive pdf report file.
+`spacy.py` scraps satellite information from the web, and formats all information into a comprehensive pdf report file.
 
 Open terminal and go to the directory, then enter
 `python spacy.py`
