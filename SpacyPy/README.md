@@ -28,3 +28,10 @@ Right ascension of the ascending node (Ω)
 Argument of pericenter (𝜔)
 True anomaly (𝜈)
 ...
+
+=================================================================
+## Satellite RNN Analysis
+
+`rnn_scraper.py` scraps data from n2yo.com, and formats the scrapped data into a clean dataset for Recurrent Neural Network analysis. Our aim is to be able to predict several parameters of live temporal satellite data with a trained neural network.
+
+`rnn_satanalysis` is the preliminary RNN analysis conducted for LONGITUDE. The model is still being optimized. `rnn_data.csv` is a sample scrapped csv file using our scrapper.
