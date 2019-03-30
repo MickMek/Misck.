@@ -10,4 +10,4 @@ Its output is a csv file (`pld_brokers2.csv`) with information on available offi
 
 `pld_map.py` creates a map of Paris - La Defense area and marks available information from `pld_brokers2.csv`). Its output is the map as an html file (`ladefense_map.html`) 
 
-![Alt text](https://github.com/MickMek/Misck./PLDMaper/pld_map.png?raw=true "Paris - La Defense (offices availabilities)")
+![Alt text](https://github.com/MickMek/Misck./PLDMaper/pld_map.png?raw=true"Paris - La Defense (offices availabilities)")
