@@ -7,6 +7,7 @@ Its output is a csv file (`pld_brokers2.csv`) with information on available offi
 - address
 - geolocalization
 - description and price
+- url
 
 `pld_map.py` creates a map of Paris - La Defense area and marks available information from `pld_brokers2.csv`). Its output is the map as an html file (`ladefense_map.html`) 
 
